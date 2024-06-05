@@ -187,3 +187,29 @@ nav li {
     margin-top: 50px;
     text-align: center;
 }
+
+/* contact style */
+
+.contract{
+    display: flex;
+    gap: 100px;
+    background: #fff8f3;
+    padding: 130px 200px;
+}
+
+.contract a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contract .section-title{
+    text-align: left;
+}
+
+.contract input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+
+}
